@@ -130,7 +130,7 @@
 
 ### **Selected Publications** (chronological order)
 
-- Hao Wu, Hao Wang, **Xing Su**, Minghao Li, Fengyuan Xu, Sheng Zhong. Security Testing of Visual Perception Module in Autonomous Driving System (in Chinese). *Journal of Computer Research and Development 2022*. [paper](publications/JCRD2022.pdf)
+- Hao Wu, Hao Wang, **Xing Su**, Minghao Li, Fengyuan Xu, Sheng Zhong. Security Testing of Visual Perception Module in Autonomous Driving System (in Chinese). **(Journal of Computer Research and Development 2022)**. [paper](publications/JCRD2022.pdf)
 - Hao Wu, Xuejin Tian, Yuhang Gong, **Xing Su**, Minghao Li, and Fengyuan Xu. DAPter: Preventing User Data Abuse in Deep Learning Inference Services. *The 30th Web Conference **(WWW 2021)***. [paper](publications/WWW2021-DAPter.pdf) [slides](slides/WWW-DAPter-slides.pdf)
 
 
