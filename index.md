@@ -117,9 +117,7 @@
 
 ### **About Me**
 
-- I am a Ph.D. candidate since 2021 at [MOSS Group](https://cs.nju.edu.cn/fxu/index.htm), Nanjing University lead by [Prof. Fengyuan Xu](https://cs.nju.edu.cn/fxu/index.htm).
-
-- Currently, I am working on vulnerability detection on EVM bytecode.
+- I received my bachelor's degree in June 2019, after that, I entered [MOSS Group](https://cs.nju.edu.cn/fxu/index.htm), Nanjing University lead by [Prof. Fengyuan Xu](https://cs.nju.edu.cn/fxu/index.htm). Currently, I am pursuing my Ph.D. degree from June 2021.
 
 ### **Interests**
 
