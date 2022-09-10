@@ -145,6 +145,9 @@
 
 ### **Hobbies**
 
+----------------------------
+<center>Last update: 9/2022</center>
+
 <script type="text/javascript">
     items = document.getElementsByTagName("a");
     for(item of items){
