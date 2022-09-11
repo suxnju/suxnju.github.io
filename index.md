@@ -84,7 +84,7 @@
 
 <tr>
 <td width="160px" border="0px">
-<!-- <img style="margin-bottom:40px" align = "float: left">  -->
+<img src="assets/photo/photo.jpg" style="margin-bottom:40px" align = "float: left"> 
 </td>
 
 <td border="0px">
@@ -144,6 +144,8 @@
 - 2016, National Graduate Contest in Mathematical Modeling, **National First Prize**
 
 ### **Hobbies**
+
+- Long-distance running, 25km weekly
 
 ----------------------------
 <center>Last update: 9/2022</center>
